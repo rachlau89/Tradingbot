@@ -1,0 +1,2 @@
+# Tradingbot
+Basictrading bot 
